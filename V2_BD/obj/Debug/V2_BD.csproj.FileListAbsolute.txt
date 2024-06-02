@@ -1,0 +1,11 @@
+C:\Users\lucas\source\repos\V2_BD\V2_BD\bin\Debug\V2_BD.exe.config
+C:\Users\lucas\source\repos\V2_BD\V2_BD\bin\Debug\V2_BD.exe
+C:\Users\lucas\source\repos\V2_BD\V2_BD\bin\Debug\V2_BD.pdb
+C:\Users\lucas\source\repos\V2_BD\V2_BD\obj\Debug\V2_BD.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\V2_BD\V2_BD\obj\Debug\V2_BD.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\V2_BD\V2_BD\obj\Debug\V2_BD.Form1.resources
+C:\Users\lucas\source\repos\V2_BD\V2_BD\obj\Debug\V2_BD.Properties.Resources.resources
+C:\Users\lucas\source\repos\V2_BD\V2_BD\obj\Debug\V2_BD.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\V2_BD\V2_BD\obj\Debug\V2_BD.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\V2_BD\V2_BD\obj\Debug\V2_BD.exe
+C:\Users\lucas\source\repos\V2_BD\V2_BD\obj\Debug\V2_BD.pdb
