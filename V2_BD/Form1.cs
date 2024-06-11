@@ -107,11 +107,6 @@ namespace V2_BD
             }
         }
 
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnAdicionarMoto_Click(object sender, EventArgs e)
         {
             Moto moto = new Moto(tbxNomeM.Text, tbxMarcaM.Text, Convert.ToInt32(tbxAnoM.Text), Convert.ToDouble(tbxValorM.Text), Convert.ToDouble(tbxQuilometragemM.Text), tbxCorM.Text, tbxEstiloM.Text, tbxMarchasM.Text);

@@ -378,13 +378,14 @@
             // 
             // btnAdicionarMoto
             // 
+            this.btnAdicionarMoto.BackColor = System.Drawing.Color.Transparent;
             this.btnAdicionarMoto.Font = new System.Drawing.Font("Constantia", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAdicionarMoto.Location = new System.Drawing.Point(135, 238);
             this.btnAdicionarMoto.Name = "btnAdicionarMoto";
             this.btnAdicionarMoto.Size = new System.Drawing.Size(135, 31);
             this.btnAdicionarMoto.TabIndex = 18;
             this.btnAdicionarMoto.Text = "ADICIONAR";
-            this.btnAdicionarMoto.UseVisualStyleBackColor = true;
+            this.btnAdicionarMoto.UseVisualStyleBackColor = false;
             this.btnAdicionarMoto.Click += new System.EventHandler(this.btnAdicionarMoto_Click);
             // 
             // tbxMarchasM
@@ -509,6 +510,7 @@
             // lblNomeM
             // 
             this.lblNomeM.AutoSize = true;
+            this.lblNomeM.BackColor = System.Drawing.Color.LightGray;
             this.lblNomeM.Font = new System.Drawing.Font("Myanmar Text", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNomeM.Location = new System.Drawing.Point(25, 38);
             this.lblNomeM.Name = "lblNomeM";
@@ -544,8 +546,9 @@
             this.BackColor = System.Drawing.SystemColors.ControlDark;
             this.ClientSize = new System.Drawing.Size(800, 560);
             this.Controls.Add(this.tabControl1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Cadastrar Veículo";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
